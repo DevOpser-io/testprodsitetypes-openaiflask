@@ -1,14 +1,15 @@
-# devopserportal-cicd
+# testprodsitetypes AI Application
 
-Please refer to the obsidian notes regarding [devopser openai demo cicd](https://github.com/DevOpser-io/obsidianvault/blob/main/DevOpser%20OpenAI%20Demo%20CICD.md).
+This repository contains the code for the testprodsitetypes AI application.
 
-This project is containerizing the OpenAI Python quickstart for chat-basic:
-https://github.com/openai/openai-quickstart-python/tree/master
+## Repository Access and Contribution Process
 
-# modifications:
-- sticky sessions + redis
-- "clear" button
-- DevOpser Logo
-- Prometheus instrumentation for Groundcover at /metrics
-- Use of AWS Secrets Manager at runtime for ENV variables for enhanced security
-- healthcheck at /health
+This is a public repository. Collaborators have write access, which means they can:
+- Create branches directly in this repository.
+- Submit pull requests from their branches.
+- Merge their own pull requests after approval, except for changes to sensitive files.
+
+If you're not a collaborator but wish to contribute, please fork the repository and submit a pull request.
+
+For detailed contribution guidelines, please see the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
